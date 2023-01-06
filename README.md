@@ -2,5 +2,5 @@
 Cat
 On
 muffin
-eating
+consuming
 cake
