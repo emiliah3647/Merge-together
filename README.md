@@ -1,6 +1,6 @@
 # Merge-together
 Cat
 On
-muffin
+ice cream
 consuming
 cake
